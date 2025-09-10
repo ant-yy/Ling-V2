@@ -1,0 +1,7 @@
+{
+  "bos_token": "<|startoftext|>",
+  "cls_token": "[CLS]",
+  "eos_token": "<|endoftext|>",
+  "gmask_token": "[gMASK]",
+  "pad_token": "<|endoftext|>"
+}
